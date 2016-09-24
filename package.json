@@ -3,13 +3,20 @@
   "version": "0.0.0",
   "description": "Modern ES6 Snippets for React",
   "engines": {
-    "atom": "*"
+    "atom": ">0.50.0"
   },
   "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/Agnostics/modern-react-snippets.git"
   },
+  "keywords": [
+    "react",
+    "react router",
+    "flux",
+    "snippets",
+    "es6"
+  ],
   "bugs": {
     "url": "https://github.com/Agnostics/modern-react-snippets/issues"
   },
