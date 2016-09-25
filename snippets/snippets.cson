@@ -1,4 +1,4 @@
-'.source.js':
+'.source.js.jsx':
   reactClassCompoment:
   	prefix: "rcc"
   	body: '''
