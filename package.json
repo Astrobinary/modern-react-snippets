@@ -1,5 +1,6 @@
 {
   "name": "modern-react-snippets",
+  "version": "0.0.0",
   "description": "Modern ES6 Snippets for React",
   "engines": {
     "atom": ">0.50.0"
